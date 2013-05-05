@@ -1,0 +1,10 @@
+{
+    "name": "hashi",
+    "description": "github hook bridge",
+    "author": "Mike Taylor",
+    "version": "0.1.0",
+    "main": "./server.js",
+    "repository": "git@github.com:bear/hashi.git",
+    "dependencies": {
+    }
+}
